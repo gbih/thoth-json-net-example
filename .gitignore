@@ -16,6 +16,8 @@ obj
 bin
 out
 
+.ionide
+
 # git
 *.orig
 
